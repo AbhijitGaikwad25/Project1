@@ -115,5 +115,17 @@ public class Abhijit {
         }
         return true;
     }
+
+    public static boolean isPrime4(int num) {
+        if (num <= 1) {
+            return false;
+        }
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
 }
 
