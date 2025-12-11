@@ -158,5 +158,12 @@ public class Abhijit {
         }
         return true;
     }
+
+    public static boolean remoteChanges2(int num) {
+        if (num <= 1) {
+            return false;
+        }
+        return true;
+    }  
 }
 
