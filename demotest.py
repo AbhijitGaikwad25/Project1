@@ -20,3 +20,6 @@ def another_helper():
 
 def another():
     print("This is another helper function")
+
+def helper():
+    print("This is another helper function")
