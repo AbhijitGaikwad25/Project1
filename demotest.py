@@ -14,3 +14,6 @@ class AuthService(UserModel):
 
 def helper_function():
     print("This is a helper function")
+    
+def another_helper():
+    print("This is another helper function")
