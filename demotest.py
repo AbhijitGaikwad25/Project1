@@ -18,5 +18,14 @@ def helper_function():
 def another_helper():
     print("This is another helper function")
 
-def another_helper_1():
-    print("This is another helper function _1")
+def another():
+    print("This is another helper function")
+
+def helper():
+    print("This is another helper functiodef another_helper()")
+    print("This is another helper function")
+
+def helper_1():
+    print("This is another helper functiodef another_helper()")
+    print("This is another helper function")
+
