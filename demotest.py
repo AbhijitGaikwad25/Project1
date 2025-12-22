@@ -29,3 +29,6 @@ def helper_1():
     print("This is another helper functiodef another_helper()")
     print("This is another helper function")
 
+def helper_2():
+    print("This is another helper functiodef another_helper()")
+    print("This is another helper function")
